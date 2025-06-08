@@ -29,7 +29,10 @@ La implementación se compone de las siguientes clases:
 Ejecuta el siguiente comando desde la terminal en la carpeta del proyecto:
 ```sh
 javac Node.java CustomLinkedList.java Main.java
+```
+### 🏗️ **Ejecuta con**
 
-### 🏗️ **Luego puede ejecutar con**
 ```sh
 java Main
+
+```
