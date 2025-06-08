@@ -1,4 +1,4 @@
-﻿# CustomLinkedList - Implementación en Java
+# CustomLinkedList - Implementación en Java
 
 ## 📌 Descripción
 Este proyecto implementa una **Lista Enlazada** en Java, una estructura de datos compuesta por nodos que contienen datos y una referencia al siguiente nodo en la secuencia. A diferencia de los arreglos, las listas enlazadas permiten inserciones y eliminaciones eficientes sin necesidad de reorganizar la memoria.
@@ -7,6 +7,7 @@ Este proyecto implementa una **Lista Enlazada** en Java, una estructura de datos
 La implementación se compone de las siguientes clases:
 - **`Node`**: Representa cada elemento de la lista, almacenando un valor (`data`) y una referencia al siguiente nodo (`next`).
 - **`CustomLinkedList`**: Implementa las operaciones básicas de la lista enlazada, como inserción, eliminación, búsqueda y obtención de tamaño.
+- **`CustomLinkedListTest`**: Clase que contiene pruebas unitarias con JUnit 5 para validar los métodos de `CustomLinkedList`.
 - **`Main`**: Clase que ejecuta operaciones de prueba sobre la lista enlazada.
 
 ### 🔹 Métodos principales:
